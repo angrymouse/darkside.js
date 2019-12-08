@@ -1,0 +1,44 @@
+{
+  "_from": "darkside.js",
+  "_id": "darkside.js@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-rGXa7ShGoBBR5h4Rl6mFjYrAPN29bU/WEzpQlwnqKLEyRTC36RubIrbh4h9r4nmGortDsxDeSPODbGaGYW9aCQ==",
+  "_location": "/darkside.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "darkside.js",
+    "name": "darkside.js",
+    "escapedName": "darkside.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/darkside.js/-/darkside.js-0.0.7.tgz",
+  "_shasum": "c865c780a8a166bdd44ecd236ef1183f55aa2918",
+  "_spec": "darkside.js",
+  "_where": "/media/mice/34F2F6F222027EC8/ds.js",
+  "author": {
+    "name": "Mice"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "events": "^3.0.0",
+    "request": "^2.88.0",
+    "ws": "^7.0.0"
+  },
+  "deprecated": false,
+  "description": "Open-source library for writing bots and selfbots",
+  "license": "ISC",
+  "main": "app.js",
+  "name": "darkside.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
+}
